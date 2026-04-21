@@ -12,3 +12,6 @@ I used a variety of functions to cut down survey data into two datasets. One of 
 src= "/static/imgs/output.png" 
 alt= "Image of Pace Perception of Don't Attend"/>
 
+<img width= "500" height= "500"
+src= "/static/imgs/output_2.png" 
+alt= "Image of Pace Perception of Attend"/>
