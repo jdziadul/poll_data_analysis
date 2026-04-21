@@ -27,3 +27,4 @@ On one hand, this data does make some logicial sense. A student typically goes t
 However, once possible way in which these results may not be valid is due to self-report bias. In other words, students who view their abilities/knowledge more highly would be less willing to go to office hours. To collect more unbiased data, one might collect data on student's prior quiz scores to compared the empirical results of those who go to office hours and those who don't.
 
 In addition, the effectiveness of poll questions with immediate feedback is hard to test without actually experimenting with it. As such, I would recommend implementing poll questions for next semester and seeing how that impacts student's understanding of the material and perceptions of pace and difficulty.
+
